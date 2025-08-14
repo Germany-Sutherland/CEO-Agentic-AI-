@@ -4,5 +4,5 @@ numpy
 altair
 wikipedia
 feedparser
-requests
+matplotlib
 networkx
